@@ -48,9 +48,9 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 📂 File Sharing
 
-* [Eat this Much](https://www.eatthismuch.com/): Create a personalized meal plan based on your food preferences, budget, and schedule.
 * [Just Beam It](https://justbeamit.com/): Transfer a file directly from your browser to another.
 * [We Transfer](https://wetransfer.com/): Transfer files of up to 2GB online for free.
+* [Wormhole.app](https://wormhole.app/): Encrypted, peer-to-peer file transfer.
 
 ## 🎮 Games
 
@@ -60,6 +60,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## ❤️  Health & Exercise
 
+* [Eat this Much](https://www.eatthismuch.com/): Create a personalized meal plan based on your food preferences, budget, and schedule.
 * [Muscle Wiki](https://musclewiki.com): Choose muscles on a body diagram and see videos on how to exercise them.
 * [Noises Online](http://noises.online): Decompress from your day with relaxing sounds.
 
