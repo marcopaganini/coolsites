@@ -104,6 +104,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/): AI generated faces of non-existent people. A new and unique face on every page refresh.
 * [Where is this?](https://www.where-is-this.com/): Send a picture and have the location it was taken identified.
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
+* [iHug.You](https://ihug.you/) - Send digital hugs to your friends!
+
 
 ## 🔧 Life hacks & Generally useful sites
 
