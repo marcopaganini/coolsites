@@ -104,6 +104,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/): AI generated faces of non-existent people. A new and unique face on every page refresh.
 * [Where is this?](https://www.where-is-this.com/): Send a picture and have the location it was taken identified.
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
+* [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 
 ## 🔧 Life hacks & Generally useful sites
 
