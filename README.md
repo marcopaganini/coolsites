@@ -110,6 +110,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
+* [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
