@@ -98,6 +98,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 🕶 Just cool and fun
 
+* [Powerfull websiteas You Should Know](https://powerfulwebsites.online/): Powerful websites you should know — a curated catalog of the most useful tools on the internet. Organized by category, filterable by tags, with a quiz to match you to the right site.
+* [I am Bored Site](http://iambored.site/): Bored? Press the Enjoy button and get instantly transported to one of hundreds of handpicked, fascinating corners of the internet. Filter by category: games, art, music, science, and more.
 * [Animated Knots](https://www.animatedknots.com): Learn how to tie different knots with clear 3D animations.
 * [futureme](https://www.futureme.org/): Write a letter to the future. Allows you to send your future self an email. Remember what you were thinking a number of years ago and see how your life has been going.
 * [Text Smileys Generator](https://lenny-face-generator.textsmilies.com/): Generate "Lenny Faces" for any situation. :)
