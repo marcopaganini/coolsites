@@ -108,6 +108,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 🔧 Life hacks & Generally useful sites
 
+* [AIPower.spot](https://aipower.spot/): This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI).
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
