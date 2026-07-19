@@ -109,6 +109,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 🔧 Life hacks & Generally useful sites
 
+* [Excel to Markdown](https://exceltomd.com/excel-to-markdown): Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser, with no registration or workbook upload.
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
