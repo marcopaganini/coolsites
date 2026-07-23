@@ -51,6 +51,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Just Beam It](https://justbeamit.com/): Transfer a file directly from your browser to another.
 * [We Transfer](https://wetransfer.com/): Transfer files of up to 2GB online for free.
 * [Wormhole.app](https://wormhole.app/): Encrypted, peer-to-peer file transfer.
+* [8ma Quick Transfer](https://t.8ma.co/): Transfer large files between computers and phones by link, QR code, or pickup code, without registration or installation.
 
 ## 🎮 Games
 
