@@ -95,6 +95,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Privnote](https://privnote.com/): Send notes that will self-destruct after being read.
 * [Terms of Service, Didn't Read](https://tosdr.org/): Provides a human readable summary of various terms of service and ranks them for privacy.
 * [Virus Total](https://www.virustotal.com): Check a website (links) or a file for virus and malware.
+* [Zero Dollar Domains](https://arynjennen1989-stack.github.io/): Live RDAP Hunter for unused cheap TLD names plus a catalog of still-free domain programs (eu.org, is-a.dev). Not an expired-.com dump.
 
 ## 🕶 Just cool and fun
 
