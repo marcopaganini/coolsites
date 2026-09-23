@@ -47,6 +47,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Reverse dictionary](https://www.onelook.com/reverse-dictionary.shtml): Enter a word, phrase, description, or pattern to find related words.
 
 ## 📂 File Sharing
+
 * [IcyZip](https://icyzip.com/): Pair two open, online browsers by QR code or link for end-to-end encrypted live text and one file up to 25 MiB, with no account or app.
 * [Just Beam It](https://justbeamit.com/): Transfer a file directly from your browser to another.
 * [We Transfer](https://wetransfer.com/): Transfer files of up to 2GB online for free.
