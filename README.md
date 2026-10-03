@@ -76,6 +76,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Online PNG Tools](https://onlinepngtools.com/): Large number of tools to manipulate your PNGs online.
 * [Photopea](https://www.photopea.com/): Feature rich, free, online image editor (see also [Pixlr](https://pixlr.com/)).
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
+* [Tesla Wrap Generator](https://teslawrapgenerator.com/): AI generator for custom Tesla Paint Shop wraps, with a 3D preview.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
 * [tinyPNG](https://tinypng.com): Smart WebP, PNG, and JPEG compression.
 
