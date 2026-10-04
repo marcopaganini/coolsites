@@ -92,6 +92,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Fast](https://fast.com/): Simple site to check your network connection speed.
 * [Have I been Pwned](https://haveibeenpwned.com/): Check if your passwords and other data leaked in any data breach.
 * [I Love PDF](https://ilovepdf.com): Many tools to manipulate PDF files (merge, split, convert, organize, add watermark, etc...)
+* [FileOnTap](https://fileontap.com/): Free online file converter that runs in the browser and does not upload files.
 * [Namech_k](https://namechk.com): For a given name, check multiple domains and social media username presence. Useful when choosing site and product names.
 * [PDF Escape](https://www.pdfescape.com): Free PDF editor and form filler. No need to print and fill PDFs by hand.
 * [Privnote](https://privnote.com/): Send notes that will self-destruct after being read.
