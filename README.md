@@ -78,6 +78,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
 * [tinyPNG](https://tinypng.com): Smart WebP, PNG, and JPEG compression.
+* [Vintage Photo Prompt](https://vintagephotoprompt.com/): Free, no-signup gallery of 1980s-style AI photo prompts.
+  Copy one into ChatGPT or Gemini to turn a photo into a retro yearbook, prom or mall portrait.
 
 ## 🌐 Internet Life
 
