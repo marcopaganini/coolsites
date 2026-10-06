@@ -116,6 +116,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
+* [FollowersAcheter.be growth calculator](https://followersacheter.be/tools/follower-growth): Free French-language calculator for Belgian creators to plan required net follower growth per day and week from a current count, target, and days. No signup or profile lookup.
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
