@@ -45,6 +45,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [DeepL](https://www.deepl.com/translator): Translate between many different languages.
 * [Etymonline](https://www.etymonline.com/): Find the origins of a word with this comprehensive and free English etymology dictionary.
 * [Reverse dictionary](https://www.onelook.com/reverse-dictionary.shtml): Enter a word, phrase, description, or pattern to find related words.
+* [Dearovo](https://www.dearovo.com/): AI-assisted relationship message writing for natural, ready-to-send good-night and everyday messages, with a useful free tier.
 
 ## 📂 File Sharing
 
