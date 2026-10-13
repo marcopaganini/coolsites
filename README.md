@@ -109,6 +109,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 
+* [Custom Spinner Wheel](https://customspinnerwheel.com/): Free spin-the-wheel tool with a random name picker, team generator, Instagram comment picker and truth-or-dare wheel — no signup required.
+
 ## 🔧 Life hacks & Generally useful sites
 
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
