@@ -21,6 +21,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 📘 Books & Reference
 
+* [FictionOrder](https://fictionorder.com): Book series in reading order, with publication vs story order and where to start.
 * [libgen](https://linbgen.is): Download almost any book and textbook in electronic format.
 * [ManualsLib](https://manualslib.com): View online manuals for many different products.
 * [Petrucci Music Library](https://imslp.org/wiki/Main_Page): Giant collection of public domain music scores.
