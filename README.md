@@ -64,6 +64,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Eat this Much](https://www.eatthismuch.com/): Create a personalized meal plan based on your food preferences, budget, and schedule.
 * [Muscle Wiki](https://musclewiki.com): Choose muscles on a body diagram and see videos on how to exercise them.
 * [Noises Online](http://noises.online): Decompress from your day with relaxing sounds.
+* [IQMAXXING](https://iqmaxxing.org/): Free brain training in the browser with no account: dual and quad n-back, memory span, reaction time and Stroop, with your runs charted over time.
 
 ## 📷 Images
 
