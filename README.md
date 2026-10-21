@@ -58,6 +58,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [My Abandonware](https://www.myabandonware.com/): Download abandonware games from 1978-2010.
 * [Oldgames Download](https://oldgamesdownload.com/): Archival website with a database of abandonware from the 70s to early 2000s, including Arcade, C64, DOS, PlayStation, Sega, Windows and more.
 * [CheapShark](https://www.cheapshark.com/): Compare the prices of many games across stores.
+* [SteamDownload](https://www.steamdownload.cn/?lang=en): Free game downloads (PC, Switch, retro, mobile, visual novels), each mirrored on several cloud drives, with an AI recommender that suggests games from the library. No registration.
 
 ## ❤️  Health & Exercise
 
