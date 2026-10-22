@@ -108,6 +108,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+* [MemeBako](https://www.memebako.com/): HD watermark-free meme archive for Gugugaga the penguin & Nailong the yellow dragon — ~1000 memes, stickers, GIFs, wallpapers and coloring pages, one-click copy, plus an online caption maker.
 
 ## 🔧 Life hacks & Generally useful sites
 
