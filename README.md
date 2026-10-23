@@ -117,6 +117,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
+* [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator): Estimate a U.S. roof replacement planning range by roof size, material, tear-off, and local labor.
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
 * [WTF Should I make for dinner](http://www.whatthefuckshouldimakefordinner.com/): Same concept: Tell
