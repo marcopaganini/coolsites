@@ -74,6 +74,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
   for creating hand-drawn-style diagrams and sketches.
 * [Online OCR](https://www.onlineocr.net/): Free online OCR service.
 * [Online PNG Tools](https://onlinepngtools.com/): Large number of tools to manipulate your PNGs online.
+* [APPLORE PNG to SVG](https://applore.app/png-to-svg): Convert a PNG, JPG or WebP to a full-color SVG in the browser, keeping transparent backgrounds. Free, no signup.
 * [Photopea](https://www.photopea.com/): Feature rich, free, online image editor (see also [Pixlr](https://pixlr.com/)).
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
