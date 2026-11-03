@@ -137,6 +137,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 ## ✈️  Travel
 
 * [ADS-B Exchange](https://globe.adsbexchange.com/): Flight tracker and mapper, using crowdsourced data.
+* [Bucketlist.nl Netherlands checklist (Dutch)](https://bucketlist.nl/bucketlist-nederland/checklist): Free Dutch-language checklist of experience ideas in the Netherlands, readable without registration.
 * [FlightAware](https://flightaware.com/): Another real-time flight tracker.
 * [Flight Radar 24](https://www.flightradar24.com/): See a map of aircraft flying around any location, including aircraft type, airspeed, altitude, and flight plan. Also provides details on specific flights (Note: they deprecated their paid app a while ago and moved to a subscription model, rendering paid apps useless and upsetting a _lot_ of people a few years ago. Tread carefully if you plan to purchase anything from them.)
 
