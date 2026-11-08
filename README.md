@@ -115,6 +115,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
+* [LoftLoom Sizing Tools](https://loftloom.com/tools): Free calculators for rug, dining table, chandelier and wall art sizes, and whether a sofa will fit through your door. No registration.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
@@ -132,6 +133,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 ## 📀 Streaming audio & video (TV, shows, etc)
 
 * [I have no TV](https://ihavenotv.com): Access to a large curated list of documentaries that you can watch online for free.
+* [72FM](https://72fm.com): Live radio from 30,000+ public stations in 200+ countries, browsable by country or by the local time where it's playing. No registration; the free tier plays 15 minutes a day.
 * [radio.garden](https://radio.garden): Listen to radio stations around the world.
 
 ## ✈️  Travel
