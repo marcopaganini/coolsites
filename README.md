@@ -57,6 +57,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Phoboslab Ztype](https://zty.pe): Fun spaceship typing game with awesome sound effects.
 * [My Abandonware](https://www.myabandonware.com/): Download abandonware games from 1978-2010.
 * [Oldgames Download](https://oldgamesdownload.com/): Archival website with a database of abandonware from the 70s to early 2000s, including Arcade, C64, DOS, PlayStation, Sega, Windows and more.
+* [Mini-Game.kr](https://mini-game.kr/): 60+ free original HTML5 mini-games (merge, puzzle, defense, board, logic) that run in the browser, no install or signup. Korean UI.
 * [CheapShark](https://www.cheapshark.com/): Compare the prices of many games across stores.
 
 ## ❤️  Health & Exercise
