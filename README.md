@@ -137,6 +137,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Web Apps Directory](https://webapps.directory): Curated directory of web apps that run in the browser: design and dev tools, editors, converters and games. Free, no sign up.
 * [WTF Should I make for dinner](http://www.whatthefuckshouldimakefordinner.com/): Same concept: Tell
   the site what you have and see a list of possible recipes.
+* [Secret Santa Generator](https://secretsantagenerator.xyz/): Free Secret Santa draw for 3 to 200 people, with exclusions (so couples don't draw each other) and a budget. Everyone gets a private link, or you print slips. No sign-up, no emails.
 
 ## 💰 Shopping and Deals
 
