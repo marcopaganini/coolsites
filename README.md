@@ -117,6 +117,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/): Paste a YouTube link and read the video's transcript instead of watching it. A few free transcripts a day, no sign-up needed.
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
 * [WTF Should I make for dinner](http://www.whatthefuckshouldimakefordinner.com/): Same concept: Tell
