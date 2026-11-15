@@ -126,9 +126,11 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
+* [PWA Directory](https://pwa.directory): Directory of installable Progressive Web Apps, showing offline support and install details for each. Free, no sign up.
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
+* [Web Apps Directory](https://webapps.directory): Curated directory of web apps that run in the browser: design and dev tools, editors, converters and games. Free, no sign up.
 * [WTF Should I make for dinner](http://www.whatthefuckshouldimakefordinner.com/): Same concept: Tell
   the site what you have and see a list of possible recipes.
 
