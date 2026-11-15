@@ -113,6 +113,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
+* [No Stairs Please](https://nostairsplease.com/): Every small live-music stage in all 50 US states, and who books it.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
