@@ -131,6 +131,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [PWA Directory](https://pwa.directory): Directory of installable Progressive Web Apps, showing offline support and install details for each. Free, no sign up.
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/): Paste a YouTube link and read the video's transcript instead of watching it. A few free transcripts a day, no sign-up needed.
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
 * [Web Apps Directory](https://webapps.directory): Curated directory of web apps that run in the browser: design and dev tools, editors, converters and games. Free, no sign up.
