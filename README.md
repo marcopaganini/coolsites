@@ -23,6 +23,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [libgen](https://linbgen.is): Download almost any book and textbook in electronic format.
 * [ManualsLib](https://manualslib.com): View online manuals for many different products.
+* [Name Awesome](https://nameawesome.com): Explore U.S. baby name popularity from 1880 to 2025, with name meanings, origins, and a state-by-state name map.
 * [Petrucci Music Library](https://imslp.org/wiki/Main_Page): Giant collection of public domain music scores.
 * [Project Gutenberg](https://www.gutenberg.org): Giant collection of classic books, sheet music, etc, available for free.
 * [Sci Hub](https://sci-hub.mksa.top/): Free access to white paper downloads.
@@ -64,6 +65,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Eat this Much](https://www.eatthismuch.com/): Create a personalized meal plan based on your food preferences, budget, and schedule.
 * [Muscle Wiki](https://musclewiki.com): Choose muscles on a body diagram and see videos on how to exercise them.
 * [Noises Online](http://noises.online): Decompress from your day with relaxing sounds.
+* [Subskills](https://subskills.xyz): Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 
 ## 📷 Images
 
@@ -78,6 +80,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
 * [tinyPNG](https://tinypng.com): Smart WebP, PNG, and JPEG compression.
+* [Vintage Photo Prompt](https://vintagephotoprompt.com/): Free, no-signup gallery of 1980s-style AI photo prompts.
+  Copy one into ChatGPT or Gemini to turn a photo into a retro yearbook, prom or mall portrait.
 
 ## 🌐 Internet Life
 
@@ -108,6 +112,9 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+* [IQMAXXING](https://iqmaxxing.org/): Free brain training in the browser with no account: dual and quad n-back, memory span, reaction time and Stroop, with your runs charted over time.
+* [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
+* [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
 
 ## 🔧 Life hacks & Generally useful sites
 
@@ -115,7 +122,9 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [EveryApp](https://everyapp.pro): 300+ tools, apps and games in the browser: PDF and image tools, calculators, habit and expense trackers, flashcards, Sudoku, chess and more. Most are free; an optional paid Pro plan unlocks the rest and bigger files.
+* [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard for creating hand-drawn-style diagrams and sketches.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
+* [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
@@ -132,6 +141,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 📀 Streaming audio & video (TV, shows, etc)
 
+* [airdrift.stream](https://airdrift.stream): Listen to ~59,000 live radio stations from 241 countries, browsable by country and genre. No signup, installable as an app.
 * [I have no TV](https://ihavenotv.com): Access to a large curated list of documentaries that you can watch online for free.
 * [radio.garden](https://radio.garden): Listen to radio stations around the world.
 
