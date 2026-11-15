@@ -121,6 +121,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
+* [EveryApp](https://everyapp.pro): 300+ tools, apps and games in the browser: PDF and image tools, calculators, habit and expense trackers, flashcards, Sudoku, chess and more. Most are free; an optional paid Pro plan unlocks the rest and bigger files.
 * [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard for creating hand-drawn-style diagrams and sketches.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
