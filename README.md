@@ -114,6 +114,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+* [PickerSpin](https://pickerspin.co/): Free spin-the-wheel random picker with no signup or ads — also does dice rolls, a 90-ball bingo caller, and team generation. Every draw is provably fair via the browser's Web Crypto API, with a public page to verify it.
 * [IQMAXXING](https://iqmaxxing.org/): Free brain training in the browser with no account: dual and quad n-back, memory span, reaction time and Stroop, with your runs charted over time.
 * [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
 * [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
