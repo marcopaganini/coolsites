@@ -64,6 +64,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Eat this Much](https://www.eatthismuch.com/): Create a personalized meal plan based on your food preferences, budget, and schedule.
 * [Muscle Wiki](https://musclewiki.com): Choose muscles on a body diagram and see videos on how to exercise them.
 * [Noises Online](http://noises.online): Decompress from your day with relaxing sounds.
+* [Subskills](https://subskills.xyz): Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 
 ## 📷 Images
 
@@ -78,6 +79,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
 * [tinyPNG](https://tinypng.com): Smart WebP, PNG, and JPEG compression.
+* [Vintage Photo Prompt](https://vintagephotoprompt.com/): Free, no-signup gallery of 1980s-style AI photo prompts.
+  Copy one into ChatGPT or Gemini to turn a photo into a retro yearbook, prom or mall portrait.
 
 ## 🌐 Internet Life
 
@@ -108,6 +111,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+* [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
 * [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
 
 ## 🔧 Life hacks & Generally useful sites
@@ -115,6 +119,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
+* [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard for creating hand-drawn-style diagrams and sketches.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
@@ -132,6 +137,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 📀 Streaming audio & video (TV, shows, etc)
 
+* [airdrift.stream](https://airdrift.stream): Listen to ~59,000 live radio stations from 241 countries, browsable by country and genre. No signup, installable as an app.
 * [I have no TV](https://ihavenotv.com): Access to a large curated list of documentaries that you can watch online for free.
 * [radio.garden](https://radio.garden): Listen to radio stations around the world.
 
