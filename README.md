@@ -23,6 +23,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [libgen](https://linbgen.is): Download almost any book and textbook in electronic format.
 * [ManualsLib](https://manualslib.com): View online manuals for many different products.
+* [Name Awesome](https://nameawesome.com): Explore U.S. baby name popularity from 1880 to 2025, with name meanings, origins, and a state-by-state name map.
 * [Petrucci Music Library](https://imslp.org/wiki/Main_Page): Giant collection of public domain music scores.
 * [Project Gutenberg](https://www.gutenberg.org): Giant collection of classic books, sheet music, etc, available for free.
 * [Sci Hub](https://sci-hub.mksa.top/): Free access to white paper downloads.
@@ -64,18 +65,24 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Eat this Much](https://www.eatthismuch.com/): Create a personalized meal plan based on your food preferences, budget, and schedule.
 * [Muscle Wiki](https://musclewiki.com): Choose muscles on a body diagram and see videos on how to exercise them.
 * [Noises Online](http://noises.online): Decompress from your day with relaxing sounds.
+* [Subskills](https://subskills.xyz): Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 
 ## 📷 Images
 
 * [BigJPG](https://bigjpg.com/): Use AI to increase the size of your images.
 * [CleanPNG](https://www.cleanpng.com/): Clean and free PNG images, with transparent backgrounds, ready to use.
 * Free stock photos, images & videos: [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com), [Unsplash](https://unsplash.com/).
+* [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard
+  for creating hand-drawn-style diagrams and sketches.
 * [Online OCR](https://www.onlineocr.net/): Free online OCR service.
 * [Online PNG Tools](https://onlinepngtools.com/): Large number of tools to manipulate your PNGs online.
 * [Photopea](https://www.photopea.com/): Feature rich, free, online image editor (see also [Pixlr](https://pixlr.com/)).
+* [Pic2Vector](https://pic2vector.com/): Convert PNG, JPG and WebP images to SVG in the browser; free, no signup, images are not uploaded.
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
 * [tinyPNG](https://tinypng.com): Smart WebP, PNG, and JPEG compression.
+* [Vintage Photo Prompt](https://vintagephotoprompt.com/): Free, no-signup gallery of 1980s-style AI photo prompts.
+  Copy one into ChatGPT or Gemini to turn a photo into a retro yearbook, prom or mall portrait.
 
 ## 🌐 Internet Life
 
@@ -95,6 +102,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Privnote](https://privnote.com/): Send notes that will self-destruct after being read.
 * [Terms of Service, Didn't Read](https://tosdr.org/): Provides a human readable summary of various terms of service and ranks them for privacy.
 * [Virus Total](https://www.virustotal.com): Check a website (links) or a file for virus and malware.
+* [Zero Dollar Domains](https://arynjennen1989-stack.github.io/): Live RDAP Hunter for unused cheap TLD names plus a catalog of still-free domain programs (eu.org, is-a.dev). Not an expired-.com dump.
 
 ## 🕶 Just cool and fun
 
@@ -107,19 +115,30 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 * [PickerSpin](https://pickerspin.co/): Free spin-the-wheel random picker with no signup or ads — also does dice rolls, a 90-ball bingo caller, and team generation. Every draw is provably fair via the browser's Web Crypto API, with a public page to verify it.
+* [IQMAXXING](https://iqmaxxing.org/): Free brain training in the browser with no account: dual and quad n-back, memory span, reaction time and Stroop, with your runs charted over time.
+* [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
+* [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
 
 ## 🔧 Life hacks & Generally useful sites
 
+* [CountMetrik Tap Counter](https://countmetrik.com/tap-counter): Free browser-based tap counter for repeated manual counting, with undo, targets, local saving, fullscreen and no signup.
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
+* [EveryApp](https://everyapp.pro): 300+ tools, apps and games in the browser: PDF and image tools, calculators, habit and expense trackers, flashcards, Sudoku, chess and more. Most are free; an optional paid Pro plan unlocks the rest and bigger files.
+* [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard for creating hand-drawn-style diagrams and sketches.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
+* [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
+* [PWA Directory](https://pwa.directory): Directory of installable Progressive Web Apps, showing offline support and install details for each. Free, no sign up.
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/): Paste a YouTube link and read the video's transcript instead of watching it. A few free transcripts a day, no sign-up needed.
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
+* [Web Apps Directory](https://webapps.directory): Curated directory of web apps that run in the browser: design and dev tools, editors, converters and games. Free, no sign up.
 * [WTF Should I make for dinner](http://www.whatthefuckshouldimakefordinner.com/): Same concept: Tell
   the site what you have and see a list of possible recipes.
+* [Secret Santa Generator](https://secretsantagenerator.xyz/): Free Secret Santa draw for 3 to 200 people, with exclusions (so couples don't draw each other) and a budget. Everyone gets a private link, or you print slips. No sign-up, no emails.
 
 ## 💰 Shopping and Deals
 
@@ -130,8 +149,10 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 📀 Streaming audio & video (TV, shows, etc)
 
+* [airdrift.stream](https://airdrift.stream): Listen to ~59,000 live radio stations from 241 countries, browsable by country and genre. No signup, installable as an app.
 * [I have no TV](https://ihavenotv.com): Access to a large curated list of documentaries that you can watch online for free.
 * [radio.garden](https://radio.garden): Listen to radio stations around the world.
+* [Roam Radio](https://roamradios.com): Free directory of live radio stations from around the world, browsable by country, genre and language.
 
 ## ✈️  Travel
 
