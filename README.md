@@ -112,6 +112,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 * [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
+* [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
 
 ## 🔧 Life hacks & Generally useful sites
 
