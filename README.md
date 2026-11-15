@@ -23,6 +23,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [libgen](https://linbgen.is): Download almost any book and textbook in electronic format.
 * [ManualsLib](https://manualslib.com): View online manuals for many different products.
+* [Name Awesome](https://nameawesome.com): Explore U.S. baby name popularity from 1880 to 2025, with name meanings, origins, and a state-by-state name map.
 * [Petrucci Music Library](https://imslp.org/wiki/Main_Page): Giant collection of public domain music scores.
 * [Project Gutenberg](https://www.gutenberg.org): Giant collection of classic books, sheet music, etc, available for free.
 * [Sci Hub](https://sci-hub.mksa.top/): Free access to white paper downloads.
