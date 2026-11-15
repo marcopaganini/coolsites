@@ -4,16 +4,25 @@ This is a list of cool, awesome, and useful websites that a lot of people
 don't know. I've decided to save these here so others can benefit (and I can
 find them again).
 
+## Please read this before submitting something
+
 There's no hard criteria for inclusion, but keep a few basics in mind:
 
 ✔️  The site should be generally useful and/or cool.</br>
-✔️  The site should offer a useful free tier.</br>
+✔️  The site should be of broad interest and useful for a large number of people.</br>
+✔️  We strongly prefer sites in English, as broken english is the lingua franca of the Internet.</br>
+✔️  The site should offer a useful free tier. Completely free without registration requirements is the gold standard.  Clearly indicate if it's a freemium site and what's allowed without payment or sign-in.</br>
+✔️  Submit **one PR per site**.</br>
+✔️  Submissions must have a clickable version of the site in the PR description.</br>
+✔️  Add your site in alphabetical order inside its category.</br>
 ❌ No malware or scams of any kind.</br>
 ❌ No paywalls.</br>
+❌ We may reject your site and will add a label indicating the reason. Feel free to try again with a _different_ site.</br>
+❌ Do not open an issue to suggest a site. Send a PR.</br>
 ⚠️  We _prefer_ sites that don't require registration.
 
-If you have a new site to contribute, or found a broken/invalid site, feel free to
-send a PR or open an issue.
+If you found a broken/invalid site, feel free to send a PR or open an issue. To add your site,
+send a PR, instead of opening an issue.
 
 Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/coolsites) if you like the content.
 
