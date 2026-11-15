@@ -146,6 +146,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [airdrift.stream](https://airdrift.stream): Listen to ~59,000 live radio stations from 241 countries, browsable by country and genre. No signup, installable as an app.
 * [I have no TV](https://ihavenotv.com): Access to a large curated list of documentaries that you can watch online for free.
 * [radio.garden](https://radio.garden): Listen to radio stations around the world.
+* [Roam Radio](https://roamradios.com): Free directory of live radio stations from around the world, browsable by country, genre and language.
 
 ## ✈️  Travel
 
