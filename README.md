@@ -36,6 +36,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Petrucci Music Library](https://imslp.org/wiki/Main_Page): Giant collection of public domain music scores.
 * [Project Gutenberg](https://www.gutenberg.org): Giant collection of classic books, sheet music, etc, available for free.
 * [Sci Hub](https://sci-hub.mksa.top/): Free access to white paper downloads.
+* [FictionOrder](https://fictionorder.com): Book series in reading order, with publication vs story order and where to start.
 * [libgen](https://linbgen.is): Download almost any book and textbook in electronic format.
 
 ## 📧 Email
