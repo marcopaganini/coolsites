@@ -126,6 +126,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Where is this?](https://www.where-is-this.com/): Send a picture and have the location it was taken identified.
 * [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
+* [cv.cm Tests](https://cv.cm/en/tests/): 69 free personality and just-for-fun tests: Big Five, 16 types, Enneagram, love language, color season, aesthetic, Greek god, Hogwarts house, Friends and more. No sign-up or email; answers are scored in your browser and never uploaded.
 * [futureme](https://www.futureme.org/): Write a letter to the future. Allows you to send your future self an email. Remember what you were thinking a number of years ago and see how your life has been going.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/): AI generated faces of non-existent people. A new and unique face on every page refresh.
