@@ -117,6 +117,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 🕶 Just cool and fun
 
+* [Powerfull websiteas You Should Know](https://powerfulwebsites.online/): Powerful websites you should know — a curated catalog of the most useful tools on the internet. Organized by category, filterable by tags, with a quiz to match you to the right site.
+* [I am Bored Site](http://iambored.site/): Bored? Press the Enjoy button and get instantly transported to one of hundreds of handpicked, fascinating corners of the internet. Filter by category: games, art, music, science, and more.
 * [Animated Knots](https://www.animatedknots.com): Learn how to tie different knots with clear 3D animations.
 * [IQMAXXING](https://iqmaxxing.org/): Free brain training in the browser with no account: dual and quad n-back, memory span, reaction time and Stroop, with your runs charted over time.
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
