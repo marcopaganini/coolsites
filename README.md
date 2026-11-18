@@ -66,6 +66,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 ## 🎮 Games
 
 * [CheapShark](https://www.cheapshark.com/): Compare the prices of many games across stores.
+* [Daily word puzzle routine](https://bestdaily.games/collections/daily-word-games/): A free guide to nine short daily word puzzles, from anagrams to word ladders, with rules and links to each creator.
 * [My Abandonware](https://www.myabandonware.com/): Download abandonware games from 1978-2010.
 * [Oldgames Download](https://oldgamesdownload.com/): Archival website with a database of abandonware from the 70s to early 2000s, including Arcade, C64, DOS, PlayStation, Sega, Windows and more.
 * [Phoboslab Ztype](https://zty.pe): Fun spaceship typing game with awesome sound effects.
