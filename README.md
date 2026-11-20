@@ -138,6 +138,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard for creating hand-drawn-style diagrams and sketches.
 * [Get Human](https://gethuman.com/): Shortcuts to get a human on the phone faster when calling customer service numbers.
 * [GetYouTubeTranscript](https://getyoutubetranscript.com/): Paste a YouTube link and read the video's transcript instead of watching it. A few free transcripts a day, no sign-up needed.
+* [icodelab tools](https://icodelab.dev/en/tools): Around 40 browser tools for everyday work: PDF merge, split and compress, image compression and background removal, QR codes, OCR, Ukrainian transliteration, regex and cron helpers. These are free with no sign-up; AI tools (audio transcription, text to speech, presentations) use paid credits after a small free trial.
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
