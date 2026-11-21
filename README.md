@@ -35,6 +35,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Name Awesome](https://nameawesome.com): Explore U.S. baby name popularity from 1880 to 2025, with name meanings, origins, and a state-by-state name map.
 * [Petrucci Music Library](https://imslp.org/wiki/Main_Page): Giant collection of public domain music scores.
 * [Project Gutenberg](https://www.gutenberg.org): Giant collection of classic books, sheet music, etc, available for free.
+* [Resource Planet](https://resources.packscena.com/): Chinese-language study and creative resource directory with topic filters, folder previews, and browser bookmarks. Browsing is free without sign-in; collecting the files opens Quark.
 * [Sci Hub](https://sci-hub.mksa.top/): Free access to white paper downloads.
 * [libgen](https://linbgen.is): Download almost any book and textbook in electronic format.
 
