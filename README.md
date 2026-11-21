@@ -66,6 +66,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 ## 🎮 Games
 
 * [CheapShark](https://www.cheapshark.com/): Compare the prices of many games across stores.
+* [Elunvi Games](https://elunvi.fun/): Play free browser puzzles, tower defense, and same-keyboard co-op, with controls and supported devices shown on each game page.
 * [My Abandonware](https://www.myabandonware.com/): Download abandonware games from 1978-2010.
 * [Oldgames Download](https://oldgamesdownload.com/): Archival website with a database of abandonware from the 70s to early 2000s, including Arcade, C64, DOS, PlayStation, Sega, Windows and more.
 * [Phoboslab Ztype](https://zty.pe): Fun spaceship typing game with awesome sound effects.
