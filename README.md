@@ -132,6 +132,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 🔧 Life hacks & Generally useful sites
 
+* [Calnex](https://calnex.pro): 217 free online calculators and unit converters in 12 languages: unit conversion, BMI, loans, currency, and physics formulas. Runs entirely in the browser, no sign-up.
 * [CountMetrik Tap Counter](https://countmetrik.com/tap-counter): Free browser-based tap counter for repeated manual counting, with undo, targets, local saving, fullscreen and no signup.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [EveryApp](https://everyapp.pro): 300+ tools, apps and games in the browser: PDF and image tools, calculators, habit and expense trackers, flashcards, Sudoku, chess and more. Most are free; an optional paid Pro plan unlocks the rest and bigger files.
