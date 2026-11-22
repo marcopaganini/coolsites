@@ -143,6 +143,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
 * [PWA Directory](https://pwa.directory): Directory of installable Progressive Web Apps, showing offline support and install details for each. Free, no sign up.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
+* [ProfScout](https://profscout.com/professors/directory): Browse professors by research field and country, for students looking for a research lab or advisor. Freemium: the directory is free without sign-up; full profiles and emails need an account and a paid plan.
 * [Secret Santa Generator](https://secretsantagenerator.xyz/): Free Secret Santa draw for 3 to 200 people, with exclusions (so couples don't draw each other) and a budget. Everyone gets a private link, or you print slips. No sign-up, no emails.
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
