@@ -86,6 +86,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
   * [Pexels](https://www.pexels.com/)
   * [Pixabay](https://pixabay.com)
   * [Unsplash](https://unsplash.com/)
+* [FujinAI Image Compressor](https://www.fujindeai.com/tools/compress-image): Compress JPG, PNG and WebP in the browser with adjustable quality and maximum width. Free, with no signup or file upload for compression.
 * [Online OCR](https://www.onlineocr.net/): Free online OCR service.
 * [Online PNG Tools](https://onlinepngtools.com/): Large number of tools to manipulate your PNGs online.
 * [Photopea](https://www.photopea.com/): Feature rich, free, online image editor (see also [Pixlr](https://pixlr.com/)).
