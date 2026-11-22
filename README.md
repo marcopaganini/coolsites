@@ -153,6 +153,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 ## 💰 Shopping and Deals
 
 * [CamelCamelCamel](https://camecamelcamel.com): See Amazon price history and set email alerts for any product.
+* [Costdar](https://costdar.com): Paste any website and see in a second whether it is free, freemium, only a free trial or paid, with its plans, prices and the sentence from the pricing page as proof. Completely free, no sign-up.
 * [Pika Pika deals](https://pikapikadeals.com): Discover deals across Amazon, Target, and Bestbuy.
 * [ReviewMeta](https://reviewmeta.com/): Review Amazon reviews and provide an adjusted rating.
 * [car-part.com](https://www.car-part.com/): Locate the nearest recycler that has specific parts for your car.
