@@ -161,6 +161,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [I have no TV](https://ihavenotv.com): Access to a large curated list of documentaries that you can watch online for free.
 * [Roam Radio](https://roamradios.com): Free directory of live radio stations from around the world, browsable by country, genre and language.
+* [SCloudConvert](https://scloudconvert.com/): Save public SoundCloud tracks and playlists you're allowed to keep offline. M4A keeps SoundCloud's ~160 kbps AAC stream as-is; MP3 is a 192 kbps transcode; playlists come as one ZIP. Free, no sign-up. Private tracks, Go+ previews and DRM audio are not supported. Independent, not affiliated with SoundCloud.
 * [airdrift.stream](https://airdrift.stream): Listen to ~59,000 live radio stations from 241 countries, browsable by country and genre. No signup, installable as an app.
 * [radio.garden](https://radio.garden): Listen to radio stations around the world.
 
