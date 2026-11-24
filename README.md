@@ -6,6 +6,8 @@ find them again).
 
 ## Please read this before submitting something
 
+👉👉🏻👉🏿 **IMPORTANT**: If you submit a PR, **please consider starring this repository**. I receive an immense amount of PR requests, but few stars. More stars mean more visibility to this repo and to your link.
+
 There's no hard criteria for inclusion, but keep a few basics in mind:
 
 ✔️  The site should be generally useful and/or cool.</br>
