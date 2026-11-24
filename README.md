@@ -57,6 +57,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 * [DeepL](https://www.deepl.com/translator): Translate between many different languages.
 * [Etymonline](https://www.etymonline.com/): Find the origins of a word with this comprehensive and free English etymology dictionary.
+* [Nihongo to Japan](https://www.nihongotojapan.com/en): Learn Japanese for the JLPT (N5 to N1) with grammar guides, vocabulary lists with audio, conjugation practice and a 191-lesson course. Freemium: the course, grammar guides and core practice are free without sign-in (ad-supported); an optional paid pass adds extra practice sets, PDFs and ad-free use.
 * [Reverse dictionary](https://www.onelook.com/reverse-dictionary.shtml): Enter a word, phrase, description, or pattern to find related words.
 
 ## 📂 File Sharing
