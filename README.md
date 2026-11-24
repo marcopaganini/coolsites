@@ -82,6 +82,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [BigJPG](https://bigjpg.com/): Use AI to increase the size of your images.
 * [CleanPNG](https://www.cleanpng.com/): Clean and free PNG images, with transparent backgrounds, ready to use.
 * [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard for creating hand-drawn-style diagrams and sketches.
+* [Free Passport Photo Maker](https://free-passport-photo-maker.web-free.site/): Make passport and ID photos in the browser with official sizes (35×45 mm, US 2×2 in), white background and printable sheets. Free, no sign-up, no watermark, photos stay on your device.
 * Free stock photos, images & videos:
   * [Pexels](https://www.pexels.com/)
   * [Pixabay](https://pixabay.com)
