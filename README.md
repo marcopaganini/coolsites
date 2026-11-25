@@ -124,6 +124,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [PickerSpin](https://pickerspin.co/): Free spin-the-wheel random picker with no signup or ads — also does dice rolls, a 90-ball bingo caller, and team generation. Every draw is provably fair via the browser's Web Crypto API, with a public page to verify it.
 * [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
+* [ReflexTimer](https://reflextimer.com/): Free browser reaction-time and click-speed tests — five-trial reaction runs, CPS by duration and an aim trainer, with percentile ranking and no sign-up.
 * [Text Smileys Generator](https://lenny-face-generator.textsmilies.com/): Generate "Lenny Faces" for any situation. :)
 * [Where is this?](https://www.where-is-this.com/): Send a picture and have the location it was taken identified.
 * [WowColoring](https://wowcoloring.com/): Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays, no sign-up needed.
