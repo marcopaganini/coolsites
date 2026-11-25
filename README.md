@@ -109,6 +109,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [I Love PDF](https://ilovepdf.com): Many tools to manipulate PDF files (merge, split, convert, organize, add watermark, etc...)
 * [Namechk](https://namechk.com): For a given name, check multiple domains and social media username presence. Useful when choosing site and product names.
 * [PDF Escape](https://www.pdfescape.com): Free PDF editor and form filler. No need to print and fill PDFs by hand.
+* [PDF Fan](https://pdf.fan/es/insertar-paginas-pdf/): Insert pages from another PDF at a specific position. Free, with no account required. The linked tool is in Spanish.
 * [Privnote](https://privnote.com/): Send notes that will self-destruct after being read.
 * [Terms of Service, Didn't Read](https://tosdr.org/): Provides a human readable summary of various terms of service and ranks them for privacy.
 * [Virus Total](https://www.virustotal.com): Check a website (links) or a file for virus and malware.
