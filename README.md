@@ -146,6 +146,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [PWA Directory](https://pwa.directory): Directory of installable Progressive Web Apps, showing offline support and install details for each. Free, no sign up.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Secret Santa Generator](https://secretsantagenerator.xyz/): Free Secret Santa draw for 3 to 200 people, with exclusions (so couples don't draw each other) and a budget. Everyone gets a private link, or you print slips. No sign-up, no emails.
+* [SpeakerEject Surround Sound Test](https://speakereject.com/surround-sound-test/): Free 5.1 and 7.1 speaker channel test files with spoken labels and reference tones. No sign-up.
 * [Still Tasty](https://stilltasty.com/): How long will your favorite food or beverage stay safe and tasty?
 * [Supercook](https://www.supercook.com): Helps you figure out dinner based on what you already have in the house.
 * [This to that](http://thistothat.com/): Shows you what glue to use to stick anything to anything.
