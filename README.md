@@ -143,6 +143,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Just the Recipe](https://www.justtherecipe.com/): Get just the ingredients and instructions for any recipe. No life story, no pop-ups, no email lists.
 * [Knexio](https://knexio.xyz): Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 * [Lemon Law Finder](https://lemonlawfinder.com/): Free check of whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law. No sign-up.
+* [Orkas](https://orkas.ai/?source=gh_coolsites): Open-source desktop AI workspace for coordinating research, writing, and other project tasks. The source edition can run without an Orkas account using your own model provider. Managed services are optional.
 * [PWA Directory](https://pwa.directory): Directory of installable Progressive Web Apps, showing offline support and install details for each. Free, no sign up.
 * [Post-Retirement FIRE calculator](https://engaging-data.com/will-money-last-retire-early/): Will your money survive early retirement?
 * [Secret Santa Generator](https://secretsantagenerator.xyz/): Free Secret Santa draw for 3 to 200 people, with exclusions (so couples don't draw each other) and a budget. Everyone gets a private link, or you print slips. No sign-up, no emails.
