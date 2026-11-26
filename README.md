@@ -71,6 +71,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [My Abandonware](https://www.myabandonware.com/): Download abandonware games from 1978-2010.
 * [Oldgames Download](https://oldgamesdownload.com/): Archival website with a database of abandonware from the 70s to early 2000s, including Arcade, C64, DOS, PlayStation, Sega, Windows and more.
 * [Phoboslab Ztype](https://zty.pe): Fun spaceship typing game with awesome sound effects.
+* [Solitaire for Seniors](https://solitaireforseniors.com): Free Klondike solitaire and mahjong with large cards and tiles, tap to move, unlimited free Undo and Hint, and no timer. Made for older players. No sign up, no download.
 
 ## ❤️  Health & Exercise
 
