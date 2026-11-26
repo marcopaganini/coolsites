@@ -126,6 +126,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [PickerSpin](https://pickerspin.co/): Free spin-the-wheel random picker with no signup or ads — also does dice rolls, a 90-ball bingo caller, and team generation. Every draw is provably fair via the browser's Web Crypto API, with a public page to verify it.
 * [ReactionMetric](https://reactionmetric.com/): Free browser reaction-time benchmark with repeatable five-trial tests and clear result statistics.
+* [Small San Francisco](https://smallsf.com): An animated visualization of San Francisco with live data from ships, airplanes, Waymo cars, etc...
 * [Text Smileys Generator](https://lenny-face-generator.textsmilies.com/): Generate "Lenny Faces" for any situation. :)
 * [This person does not exist](https://thispersondoesnotexist.com/): AI generated faces of non-existent people. A new and unique face on every page refresh.
 * [Where is this?](https://www.where-is-this.com/): Send a picture and have the location it was taken identified.
