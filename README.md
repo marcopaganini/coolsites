@@ -135,6 +135,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 
 ## 🔧 Life hacks & Generally useful sites
 
+* [Countdown to Holidays](https://countdowntoholidays.com): Live countdowns to every major U.S. holiday, a list of all eleven federal holidays with observed dates, and a days until calculator for any date. Free, no sign up.
 * [CountMetrik Tap Counter](https://countmetrik.com/tap-counter): Free browser-based tap counter for repeated manual counting, with undo, targets, local saving, fullscreen and no signup.
 * [Eon Tools](https://eontools.com/): Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.
 * [EveryApp](https://everyapp.pro): 300+ tools, apps and games in the browser: PDF and image tools, calculators, habit and expense trackers, flashcards, Sudoku, chess and more. Most are free; an optional paid Pro plan unlocks the rest and bigger files.
