@@ -120,6 +120,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 ## 🕶 Just cool and fun
 
 * [Animated Knots](https://www.animatedknots.com): Learn how to tie different knots with clear 3D animations.
+* [ArtiGram](https://artigram.cafeboon.com): A free gallery of interactive pages made with AI assistants, such as small games, simulators and data charts. You can open and play with them without signing in, and an account is only needed to take part, for example to post.
 * [Futureme](https://www.futureme.org/): Write a letter to the future. Allows you to send your future self an email. Remember what you were thinking a number of years ago and see how your life has been going.
 * [I Am Bored](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 * [IQMAXXING](https://iqmaxxing.org/): Free brain training in the browser with no account: dual and quad n-back, memory span, reaction time and Stroop, with your runs charted over time.
